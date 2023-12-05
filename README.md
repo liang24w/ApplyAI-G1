@@ -1,3 +1,3 @@
 # ApplyAI-G1
 Apply AI project for Group 1
-Pedestrian image recognition
+Binary Image Classification for detecting pedestrians in images, using a Convolutional Neural Network
